@@ -1,8 +1,8 @@
-# Voice Calculator – Privacy Policy
+# SpeakCalc – Privacy Policy
 
 **Last updated:** 15 June 2025
 
-Voice Calculator ("the app") is a free calculator that accepts spoken and typed input. This policy explains what the app does and does not do with your data.
+SpeakCalc ("the app") is a free calculator that accepts spoken and typed input. This policy explains what the app does and does not do with your data.
 
 ## Microphone
 The microphone is used only when you tap the mic button, and only to understand your calculation. The app does not record or store audio.
