@@ -1,1 +1,1 @@
-# voice-calculator-privacy
+# SpeakCalc-privacy
